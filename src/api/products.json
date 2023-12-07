@@ -1,0 +1,79 @@
+[
+	{
+		"id": 1,
+		"title": "Fideos Marolio",
+		"description": "fideos mostachol 500g",
+		"price": 500,
+		"thumbnail": "",
+		"code": "001",
+		"category": " pastas",
+		"stock": 100,
+		"status": true
+	},
+	{
+		"id": 2,
+		"title": "Azucar Ledesma",
+		"description": "Azucar tipo A 1kg",
+		"price": 900,
+		"thumbnail": "",
+		"code": "002",
+		"category": "Azucar",
+		"stock": 100,
+		"status": true
+	},
+	{
+		"id": 3,
+		"title": "Aceite Cañuelas",
+		"description": "Aceite Cañuelas de Girasol 1 lt",
+		"price": 700,
+		"thumbnail": "",
+		"code": "003",
+		"category": "Aceite",
+		"stock": 100,
+		"status": true
+	},
+	{
+		"id": 4,
+		"title": "Coca cola original",
+		"description": "coca cola 2.25lts",
+		"price": 900,
+		"thumbnail": [],
+		"code": "004",
+		"category": "gaseosa",
+		"stock": 100,
+		"status": true
+	},
+	{
+		"id": 5,
+		"title": "Coca cola",
+		"description": "coca cola 2.25lts",
+		"price": 900,
+		"thumbnail": [],
+		"code": "105",
+		"category": "gaseosa",
+		"stock": 100,
+		"status": true
+	},
+	{
+		"id": 6,
+		"title": "Fideos Marolio moños",
+		"description": "fideos moños 500g",
+		"price": 500,
+		"thumbnail": [],
+		"code": "058",
+		"category": " pastas",
+		"stock": 100,
+		"status": true
+	},
+	{
+		"id": 7,
+		"title": "Pilas eveready AAA",
+		"description": "pilas triple a",
+		"price": 500,
+		"thumbnail": [],
+		"code": "052",
+		"category": "pilas",
+		"stock": 100,
+		"status": true
+	}
+]
